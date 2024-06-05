@@ -1,0 +1,1 @@
+install: pip install pytest-bdd
